@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\Examles_SS\\Examples__001\\Examples__001.csproj",
+      "projectUniqueName": "c:\\Users\\New\\Desktop\\весь репозитроий\\Examles_SS\\Examples__001\\Examples__001.csproj",
       "projectName": "Examples__001",
-      "projectPath": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\Examles_SS\\Examples__001\\Examples__001.csproj",
+      "projectPath": "c:\\Users\\New\\Desktop\\весь репозитроий\\Examles_SS\\Examples__001\\Examples__001.csproj",
       "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\Examles_SS\\Examples__001\\obj\\",
+      "outputPath": "c:\\Users\\New\\Desktop\\весь репозитроий\\Examles_SS\\Examples__001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
