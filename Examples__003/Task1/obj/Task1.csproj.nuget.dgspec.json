@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__002\\Examples__002.csproj": {}
+    "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__003\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__002\\Examples__002.csproj": {
+    "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__003\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__002\\Examples__002.csproj",
-        "projectName": "Examples__002",
-        "projectPath": "c:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__002\\Examples__002.csproj",
+        "projectUniqueName": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__003\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__003\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__002\\obj\\",
+        "outputPath": "C:\\Users\\New\\Desktop\\LessonsS_Sharp\\lessons\\Examles_SS\\Examples__003\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
