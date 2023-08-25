@@ -20,7 +20,7 @@ void Method21(string msg, int count)
     int // для показа определенного количества сообщений msg
     while (int < count)
     {   Console.WriteLine(msg);
-    count++; 
+    i++;  //если мы оставим count++ будет увеличиваться много раз надо поставить -> i++
     }
 }
 Methode21("Текст", 4); //вводим 4 чтобы открыть сообщение 4 раза
